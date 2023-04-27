@@ -206,6 +206,6 @@ public class Lexer {
     }
     public static void main(String[] args) throws IOException {
 
-        Tokenize("/Users/nickgendron/Desktop/testcaseDemo.txt");
+        Tokenize("testcase.txt");
     }
 }
